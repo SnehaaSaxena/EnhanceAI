@@ -10,7 +10,7 @@ import Home from "./components/Home";
        <Home/>
        {/* Footer */}
        <div className="text-sm text-gray-500 mt-6">
-         Powered by @GeminiAI
+         Powered by @PicWish AI
        </div>
     </div>
   );
